@@ -101,8 +101,7 @@ Interactive accordion with common Netflix questions.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d23ee57a-442b-4c96-9385-0717657fe86a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a948b73d-4f20-485b-b4e2-51afcfddc6e0" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ef53938-15a9-4e23-9e38-0206799231ae" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4c2e7c1d-a405-4fd9-8b1b-e1ab1630c2d0" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d6e021b0-0042-4291-8f61-36600284fa4f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/20932e35-536d-4503-889b-05cc6afac5a1" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/98d65b04-1502-455a-8c4c-c64b55fbe4da" />
 
 
