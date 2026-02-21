@@ -129,8 +129,8 @@ This project is useful for:
 
 # 👨‍💻 Author
 
-Netflix UI Clone created for frontend practice.
-Viveka Nand Kumar
-GitHub: https://github.com/vivekanand2003
+* Netflix UI Clone created for frontend practice.
+* Viveka Nand Kumar
+* GitHub: https://github.com/vivekanand2003
 
 ---
