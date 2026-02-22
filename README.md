@@ -1,7 +1,3 @@
-Here is a simple, beginner-friendly **README.md** for your project based on the uploaded HTML file. I wrote it in clear language so anyone can understand what the project does and how to use it.
-
----
-
 # 📺 Netflix Home Page Clone (Bootstrap)
 
 This project is a **Netflix landing page UI clone** built using **HTML, CSS, and Bootstrap 5**.
