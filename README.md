@@ -3,6 +3,8 @@
 This project is a **Netflix landing page UI clone** built using **HTML, CSS, and Bootstrap 5**.
 It recreates the look and layout of the Netflix home page including banner sections, FAQ accordion, and footer.
 
+🔗 **Live Demo:** [View Website](https://netflix-ui-clone-ip9r.vercel.app/)
+
 📄 Source file: 
 
 ---
